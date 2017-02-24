@@ -1,3 +1,12 @@
 #about{
     background-color: green;
 }
+body{
+    background-image: url("../img/p5.jpg");
+}
+#pong{
+    background-color: white;
+}
+#jumbo{
+background-color: gold;
+}
