@@ -21,7 +21,7 @@ A web application that takes a number from a user and returns a range of numbers
 * Bootstrap
 * Git
 
-###Ping-Pong can be viewed at http://patternandshape.github.io/ping-pong
+###Ping-Pong can be viewed at https://ephieprogrammer.github.io/pingpong.github.io/
 
 ##### License
 
